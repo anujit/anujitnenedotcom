@@ -1,5 +1,5 @@
 ---
-title: Hello!.
+title: Hello!
 description: Experimenting with 11ty!
 tags:
   - 11ty
